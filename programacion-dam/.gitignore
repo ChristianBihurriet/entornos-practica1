@@ -1,0 +1,9 @@
+# Archivos generados al compilar Java
+*.class
+
+# Carpetas habituales de editores y sistemas operativos
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
